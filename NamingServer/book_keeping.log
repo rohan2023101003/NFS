@@ -1,0 +1,531 @@
+[2024-11-20 03:57:16] Cache created
+[2024-11-20 03:57:37] NM > Connected to storage server with IP 10.42.0.1
+[2024-11-20 03:57:37] Initializing connection with 10.42.0.1
+[2024-11-20 03:57:37] ssinit
+7001 7002
+storageRoot/
+[2024-11-20 03:57:37] NM > Storage server added successfully
+[2024-11-20 03:57:37] Connected servers:
+[2024-11-20 03:57:37] NM > Total storage servers: 1
+[2024-11-20 03:57:37] ssinit completed successfully
+[2024-11-20 03:57:59] NM > Connected to storage server with IP 10.42.0.228
+[2024-11-20 03:57:59] Initializing connection with 10.42.0.228
+[2024-11-20 03:57:59] ssinit
+7001 7002
+storageRoot/
+storageRoot/hello.txt
+[2024-11-20 03:57:59] NM > Storage server added successfully
+[2024-11-20 03:57:59] Connected servers:
+[2024-11-20 03:57:59] NM > Total storage servers: 2
+[2024-11-20 03:57:59] ssinit completed successfully
+[2024-11-20 04:00:24] Cache created
+[2024-11-20 04:00:38] NM > Connected to storage server with IP 10.42.0.1
+[2024-11-20 04:00:38] Initializing connection with 10.42.0.1
+[2024-11-20 04:00:38] ssinit
+7001 7002
+storageRoot/
+storageRoot/hello.txt
+[2024-11-20 04:00:38] NM > Storage server added successfully
+[2024-11-20 04:00:38] Connected servers:
+[2024-11-20 04:00:38] NM > Total storage servers: 1
+[2024-11-20 04:00:38] ssinit completed successfully
+[2024-11-20 04:02:22] Cache created
+[2024-11-20 04:02:35] NM > Connected to storage server with IP 10.42.0.1
+[2024-11-20 04:02:35] Initializing connection with 10.42.0.1
+[2024-11-20 04:02:35] ssinit
+7001 7002
+storageRoot/
+storageRoot/hello.txt
+[2024-11-20 04:02:35] NM > Storage server added successfully
+[2024-11-20 04:02:35] Connected servers:
+[2024-11-20 04:02:35] NM > Total storage servers: 1
+[2024-11-20 04:02:35] ssinit completed successfully
+[2024-11-20 04:03:37] NM > Connected to storage server with IP 10.42.0.1
+[2024-11-20 04:03:37] Initializing connection with 10.42.0.1
+[2024-11-20 04:03:37] SS > ACK received for 'READ' operation
+[2024-11-20 04:03:37] Reader completed. Readers for storageRoot/hello.txt: 0
+[2024-11-20 04:03:37] SS> ACK
+[2024-11-20 04:03:56] Cache created
+[2024-11-20 04:04:27] NM > Connected to storage server with IP 10.42.0.1
+[2024-11-20 04:04:27] Initializing connection with 10.42.0.1
+[2024-11-20 04:04:27] ssinit
+7001 7003
+storageRoot/
+storageRoot/hello.txt
+[2024-11-20 04:04:27] NM > Storage server added successfully
+[2024-11-20 04:04:27] Connected servers:
+[2024-11-20 04:04:27] NM > Total storage servers: 1
+[2024-11-20 04:04:27] ssinit completed successfully
+[2024-11-20 04:05:02] NM > Connected to storage server with IP 10.42.0.1
+[2024-11-20 04:05:02] Initializing connection with 10.42.0.1
+[2024-11-20 04:05:02] SS > ACK received for 'READ' operation
+[2024-11-20 04:05:02] Reader completed. Readers for storageRoot/hello.txt: 0
+[2024-11-20 04:05:02] SS> ACK
+[2024-11-20 04:06:04] Cache created
+[2024-11-20 04:06:21] NM > Connected to storage server with IP 10.42.0.1
+[2024-11-20 04:06:21] Initializing connection with 10.42.0.1
+[2024-11-20 04:06:21] ssinit
+7001 7002
+storageRoot/
+storageRoot/hello.txt
+[2024-11-20 04:06:21] NM > Storage server added successfully
+[2024-11-20 04:06:21] Connected servers:
+[2024-11-20 04:06:21] NM > Total storage servers: 1
+[2024-11-20 04:06:21] ssinit completed successfully
+[2024-11-20 04:07:58] NM > Connected to storage server with IP 10.42.0.1
+[2024-11-20 04:07:58] Initializing connection with 10.42.0.1
+[2024-11-20 04:07:58] SS > ACK received for 'READ' operation
+[2024-11-20 04:07:58] Reader completed. Readers for storageRoot/hello.txt: 0
+[2024-11-20 04:07:58] SS> ACK
+[2024-11-20 04:08:09] Cache created
+[2024-11-20 04:08:23] NM > Connected to storage server with IP 10.42.0.1
+[2024-11-20 04:08:23] Initializing connection with 10.42.0.1
+[2024-11-20 04:08:23] ssinit
+7001 7003
+storageRoot/
+storageRoot/hello.txt
+[2024-11-20 04:08:23] NM > Storage server added successfully
+[2024-11-20 04:08:23] Connected servers:
+[2024-11-20 04:08:23] NM > Total storage servers: 1
+[2024-11-20 04:08:23] ssinit completed successfully
+[2024-11-20 04:09:32] Cache created
+[2024-11-20 04:09:46] NM > Connected to storage server with IP 10.42.0.1
+[2024-11-20 04:09:46] Initializing connection with 10.42.0.1
+[2024-11-20 04:09:46] ssinit
+7001 7002
+storageRoot/
+storageRoot/hello.txt
+[2024-11-20 04:09:46] NM > Storage server added successfully
+[2024-11-20 04:09:46] Connected servers:
+[2024-11-20 04:09:46] NM > Total storage servers: 1
+[2024-11-20 04:09:46] ssinit completed successfully
+[2024-11-20 04:10:22] NM > Connected to storage server with IP 10.42.0.1
+[2024-11-20 04:10:22] Initializing connection with 10.42.0.1
+[2024-11-20 04:10:22] SS > ACK received for 'WRITE' operation
+[2024-11-20 04:10:22] Writer completed. is_writing for storageRoot/hello.txt: 0
+[2024-11-20 04:10:22] SS> ACK
+[2024-11-20 04:11:06] NM > Connected to storage server with IP 10.42.0.1
+[2024-11-20 04:11:06] Initializing connection with 10.42.0.1
+[2024-11-20 04:11:06] SS > ACK received for 'READ' operation
+[2024-11-20 04:11:06] Reader completed. Readers for storageRoot/hello.txt: 0
+[2024-11-20 04:11:06] SS> ACK
+[2024-11-20 04:17:56] NM > Connected to storage server with IP 10.42.0.1
+[2024-11-20 04:17:56] Initializing connection with 10.42.0.1
+[2024-11-20 04:17:56] SS > ACK received for 'INFO' operation
+[2024-11-20 04:17:56] SS> ACK
+[2024-11-20 04:19:04] NM > Connected to storage server with IP 10.42.0.228
+[2024-11-20 04:19:04] Initializing connection with 10.42.0.228
+[2024-11-20 04:19:04] ssinit
+7001 7002
+storageRoot/
+storageRoot/hello.txt
+[2024-11-20 04:19:04] NM > Storage server added successfully
+[2024-11-20 04:19:04] Connected servers:
+[2024-11-20 04:19:04] NM > Total storage servers: 2
+[2024-11-20 04:19:04] ssinit completed successfully
+[2024-11-20 04:19:24] NM > Connected to storage server with IP 10.42.0.228
+[2024-11-20 04:19:24] Initializing connection with 10.42.0.228
+[2024-11-20 04:19:24] ssinit
+7001 7002
+storageRoot/
+storageRoot/hello.txt
+Naina.mp3
+[2024-11-20 04:19:24] NM > Storage server added successfully
+[2024-11-20 04:19:24] Connected servers:
+[2024-11-20 04:19:24] NM > Total storage servers: 3
+[2024-11-20 04:19:24] ssinit completed successfully
+[2024-11-20 04:19:24] Starting to create the backups now. 
+[2024-11-20 04:19:35] NM > Connected to storage server with IP 10.42.0.1
+[2024-11-20 04:19:35] Initializing connection with 10.42.0.1
+[2024-11-20 04:19:35] SS > ACK received for 'READ' operation
+[2024-11-20 04:19:35] Reader completed. Readers for storageRoot/: -1
+[2024-11-20 04:19:35] SS> ACK
+[2024-11-20 04:19:35] Starting to create the backups now. 
+[2024-11-20 04:19:49] Cache created
+[2024-11-20 04:20:08] NM > Connected to storage server with IP 10.42.0.228
+[2024-11-20 04:20:08] Initializing connection with 10.42.0.228
+[2024-11-20 04:20:08] ssinit
+7002 7003
+storageRoot/
+Naina.mp3
+kgf.mp3
+[2024-11-20 04:20:08] NM > Storage server added successfully
+[2024-11-20 04:20:08] Connected servers:
+[2024-11-20 04:20:08] NM > Total storage servers: 1
+[2024-11-20 04:20:08] ssinit completed successfully
+[2024-11-20 04:21:40] NM > Connected to storage server with IP 10.42.0.228
+[2024-11-20 04:21:40] Initializing connection with 10.42.0.228
+[2024-11-20 04:21:40] ssinit
+7001 7003
+storageRoot/hello.txt
+Naina.mp3
+kgf.mp3
+[2024-11-20 04:21:40] NM > Storage server added successfully
+[2024-11-20 04:21:40] Connected servers:
+[2024-11-20 04:21:40] NM > Total storage servers: 2
+[2024-11-20 04:21:40] ssinit completed successfully
+[2024-11-20 04:22:13] NM > Connected to storage server with IP 10.42.0.228
+[2024-11-20 04:22:13] Initializing connection with 10.42.0.228
+[2024-11-20 04:22:13] ACK received
+[2024-11-20 04:22:13] SS > ACK received for 'STREAM' operation
+[2024-11-20 04:22:13] SS> ACK
+[2024-11-20 04:23:19] NM > Connected to storage server with IP 10.42.0.228
+[2024-11-20 04:23:19] Initializing connection with 10.42.0.228
+[2024-11-20 04:23:19] ACK received
+[2024-11-20 04:23:19] SS > ACK received for 'READ' operation
+[2024-11-20 04:23:19] Reader completed. Readers for storageRoot/hello.txt: 0
+[2024-11-20 04:23:19] SS> ACK
+[2024-11-20 04:24:25] Cache created
+[2024-11-20 04:24:44] NM > Connected to storage server with IP 10.42.0.228
+[2024-11-20 04:24:44] Initializing connection with 10.42.0.228
+[2024-11-20 04:24:44] ssinit
+7001 7002
+storageRoot/
+Naina.mp3
+kgf.mp3
+[2024-11-20 04:24:44] NM > Storage server added successfully
+[2024-11-20 04:24:44] Connected servers:
+[2024-11-20 04:24:44] NM > Total storage servers: 1
+[2024-11-20 04:24:44] ssinit completed successfully
+[2024-11-20 04:26:20] NM > Connected to storage server with IP 10.42.0.228
+[2024-11-20 04:26:20] Initializing connection with 10.42.0.228
+[2024-11-20 04:26:20] ACK received
+[2024-11-20 04:26:20] SS > ACK received for 'INFO' operation
+[2024-11-20 04:26:20] SS> ACK
+[2024-11-20 04:26:24] NM > Connected to storage server with IP 10.42.0.228
+[2024-11-20 04:26:24] Initializing connection with 10.42.0.228
+[2024-11-20 04:26:24] ACK received
+[2024-11-20 04:26:24] SS > ACK received for 'READ' operation
+[2024-11-20 04:26:24] Reader completed. Readers for storageRoot/a.txt: -1
+[2024-11-20 04:26:24] SS> ACK
+[2024-11-20 04:27:51] NM > Connected to storage server with IP 10.42.0.228
+[2024-11-20 04:27:51] Initializing connection with 10.42.0.228
+[2024-11-20 04:27:51] ACK received
+[2024-11-20 04:27:51] SS > ACK received for 'WRITE' operation
+[2024-11-20 04:27:51] Writer completed. is_writing for storageRoot/qwerty.txt: 0
+[2024-11-20 04:27:51] SS> ACK
+[2024-11-20 04:28:00] NM > Connected to storage server with IP 10.42.0.228
+[2024-11-20 04:28:00] Initializing connection with 10.42.0.228
+[2024-11-20 04:28:00] ACK received
+[2024-11-20 04:28:00] SS > ACK received for 'READ' operation
+[2024-11-20 04:28:00] Reader completed. Readers for storageRoot/qwerty.txt: 0
+[2024-11-20 04:28:00] SS> ACK
+[2024-11-20 04:28:20] NM > Connected to storage server with IP 10.42.0.228
+[2024-11-20 04:28:20] Initializing connection with 10.42.0.228
+[2024-11-20 04:28:20] ssinit
+7003 7004
+bkps/
+storageRoot/a.txt
+[2024-11-20 04:28:20] NM > Storage server added successfully
+[2024-11-20 04:28:20] Connected servers:
+[2024-11-20 04:28:20] NM > Total storage servers: 2
+[2024-11-20 04:28:20] ssinit completed successfully
+[2024-11-20 04:29:29] NM > Connected to storage server with IP 10.42.0.228
+[2024-11-20 04:29:29] Initializing connection with 10.42.0.228
+[2024-11-20 04:29:29] ACK received
+[2024-11-20 04:29:29] SS > ACK received for 'WRITE' operation
+[2024-11-20 04:29:29] Writer completed. is_writing for storageRoot/qwerty.txt: 0
+[2024-11-20 04:29:29] SS> ACK
+[2024-11-20 04:29:45] NM > Connected to storage server with IP 10.42.0.228
+[2024-11-20 04:29:45] Initializing connection with 10.42.0.228
+[2024-11-20 04:29:45] ACK received
+[2024-11-20 04:29:45] SS > ACK received for 'READ' operation
+[2024-11-20 04:29:45] Reader completed. Readers for storageRoot/qwerty.txt: 0
+[2024-11-20 04:29:45] SS> ACK
+[2024-11-20 04:30:20] NM > Connected to storage server with IP 10.42.0.228
+[2024-11-20 04:30:20] Initializing connection with 10.42.0.228
+[2024-11-20 04:30:20] ACK received
+[2024-11-20 04:30:20] SS > ACK received for 'WRITE' operation
+[2024-11-20 04:30:20] Writer completed. is_writing for storageRoot/qwerty.txt: 0
+[2024-11-20 04:30:20] SS> ACK
+[2024-11-20 04:31:02] NM > Connected to storage server with IP 10.42.0.228
+[2024-11-20 04:31:02] Initializing connection with 10.42.0.228
+[2024-11-20 04:31:02] ACK received
+[2024-11-20 04:31:02] SS > ACK received for 'READ' operation
+[2024-11-20 04:31:02] Reader completed. Readers for storageRoot/a.txt: -1
+[2024-11-20 04:31:02] SS> ACK
+[2024-11-20 04:35:11] Cache created
+[2024-11-20 04:35:32] NM > Connected to storage server with IP 10.42.0.1
+[2024-11-20 04:35:32] Initializing connection with 10.42.0.1
+[2024-11-20 04:35:32] ssinit
+7001 7002
+storageRoot/
+storageRoot/a.txt
+[2024-11-20 04:35:32] NM > Storage server added successfully
+[2024-11-20 04:35:32] Connected servers:
+[2024-11-20 04:35:32] NM > Total storage servers: 1
+[2024-11-20 04:35:32] ssinit completed successfully
+[2024-11-20 04:38:31] NM > Connected to storage server with IP 10.42.0.1
+[2024-11-20 04:38:31] Initializing connection with 10.42.0.1
+[2024-11-20 04:38:31] ACK received
+[2024-11-20 04:38:31] SS > ACK received for 'WRITE' operation
+[2024-11-20 04:38:31] Writer completed. is_writing for storageRoot/a.txt: 0
+[2024-11-20 04:38:31] SS> ACK
+[2024-11-20 04:39:00] NM > Connected to storage server with IP 10.42.0.1
+[2024-11-20 04:39:00] Initializing connection with 10.42.0.1
+[2024-11-20 04:39:00] ACK received
+[2024-11-20 04:39:00] SS > ACK received for 'WRITE' operation
+[2024-11-20 04:39:00] Writer completed. is_writing for storageRoot/a.txt: 0
+[2024-11-20 04:39:00] SS> ACK
+[2024-11-20 04:46:55] Cache created
+[2024-11-20 04:47:17] NM > Connected to storage server with IP 10.42.0.1
+[2024-11-20 04:47:17] Initializing connection with 10.42.0.1
+[2024-11-20 04:47:17] ssinit
+7001 7002
+storageRoot/
+storageRoot/a.txt
+[2024-11-20 04:47:17] NM > Storage server added successfully
+[2024-11-20 04:47:17] Connected servers:
+[2024-11-20 04:47:17] NM > Total storage servers: 1
+[2024-11-20 04:47:17] ssinit completed successfully
+[2024-11-20 04:47:50] NM > Connected to storage server with IP 10.42.0.228
+[2024-11-20 04:47:50] Initializing connection with 10.42.0.228
+[2024-11-20 04:47:50] ssinit
+7001 7002
+bkps/
+storageRoot/
+storageRoot/abc.txt
+[2024-11-20 04:47:50] NM > Storage server added successfully
+[2024-11-20 04:47:50] Connected servers:
+[2024-11-20 04:47:50] NM > Total storage servers: 2
+[2024-11-20 04:47:50] ssinit completed successfully
+[2024-11-20 04:48:29] NM > Connected to storage server with IP 10.42.0.228
+[2024-11-20 04:48:29] Initializing connection with 10.42.0.228
+[2024-11-20 04:48:29] ACK received
+[2024-11-20 04:48:29] SS > ACK received for 'READ' operation
+[2024-11-20 04:48:29] Reader completed. Readers for storageRoot/: -1
+[2024-11-20 04:49:25] Cache created
+[2024-11-20 04:49:37] NM > Connected to storage server with IP 10.42.0.1
+[2024-11-20 04:49:37] Initializing connection with 10.42.0.1
+[2024-11-20 04:49:37] ssinit
+7001 7002
+storageRoot/
+storageRoot/a.txt
+[2024-11-20 04:49:37] NM > Storage server added successfully
+[2024-11-20 04:49:37] Connected servers:
+[2024-11-20 04:49:37] NM > Total storage servers: 1
+[2024-11-20 04:49:37] ssinit completed successfully
+[2024-11-20 04:49:45] Cache created
+[2024-11-20 04:49:58] NM > Connected to storage server with IP 10.42.0.1
+[2024-11-20 04:49:58] Initializing connection with 10.42.0.1
+[2024-11-20 04:49:58] ssinit
+7001 7002
+storageRoot/
+storageRoot/a.txt
+[2024-11-20 04:49:58] NM > Storage server added successfully
+[2024-11-20 04:49:58] Connected servers:
+[2024-11-20 04:49:58] NM > Total storage servers: 1
+[2024-11-20 04:49:58] ssinit completed successfully
+[2024-11-20 04:50:01] NM > Connected to storage server with IP 10.42.0.228
+[2024-11-20 04:50:01] Initializing connection with 10.42.0.228
+[2024-11-20 04:50:01] ssinit
+7001 7002
+bkps/
+storageRoot/
+storageRoot/a.txt
+[2024-11-20 04:50:01] NM > Storage server added successfully
+[2024-11-20 04:50:01] Connected servers:
+[2024-11-20 04:50:01] NM > Total storage servers: 2
+[2024-11-20 04:50:01] ssinit completed successfully
+[2024-11-20 04:50:44] NM > Connected to storage server with IP 10.42.0.228
+[2024-11-20 04:50:44] Initializing connection with 10.42.0.228
+[2024-11-20 04:50:44] ACK received
+[2024-11-20 04:50:44] SS > ACK received for 'READ' operation
+[2024-11-20 04:50:44] Reader completed. Readers for storageRoot/: -1
+[2024-11-20 04:52:09] Cache created
+[2024-11-20 04:52:12] Cache created
+[2024-11-20 04:52:36] NM > Connected to storage server with IP 10.42.0.228
+[2024-11-20 04:52:36] Initializing connection with 10.42.0.228
+[2024-11-20 04:52:36] ssinit
+7001 7002
+storageRoot/
+temp/
+storageRoot/a.txt
+[2024-11-20 04:52:36] NM > Storage server added successfully
+[2024-11-20 04:52:36] Connected servers:
+[2024-11-20 04:52:36] NM > Total storage servers: 1
+[2024-11-20 04:52:36] ssinit completed successfully
+[2024-11-20 04:52:54] NM > Connected to storage server with IP 10.42.0.228
+[2024-11-20 04:52:54] Initializing connection with 10.42.0.228
+[2024-11-20 04:52:54] ACK received
+[2024-11-20 04:52:54] SS > ACK received for 'READ' operation
+[2024-11-20 04:52:54] Reader completed. Readers for storageRoot/: -1
+[2024-11-20 04:53:56] Cache created
+[2024-11-20 04:54:15] NM > Connected to storage server with IP 10.42.0.228
+[2024-11-20 04:54:15] Initializing connection with 10.42.0.228
+[2024-11-20 04:54:15] ssinit
+7001 7002
+temp/
+temp/temp1/
+storageRoot/
+[2024-11-20 04:54:15] NM > Storage server added successfully
+[2024-11-20 04:54:15] Connected servers:
+[2024-11-20 04:54:15] NM > Total storage servers: 1
+[2024-11-20 04:54:15] ssinit completed successfully
+[2024-11-20 04:55:08] NM > Connected to storage server with IP 10.42.0.228
+[2024-11-20 04:55:08] Initializing connection with 10.42.0.228
+[2024-11-20 04:55:08] ACK received
+[2024-11-20 04:55:08] SS > ACK received for 'READ' operation
+[2024-11-20 04:55:08] Reader completed. Readers for temp/: -1
+[2024-11-20 04:59:43] Cache created
+[2024-11-20 04:59:58] NM > Connected to storage server with IP 10.42.0.1
+[2024-11-20 04:59:58] Initializing connection with 10.42.0.1
+[2024-11-20 04:59:58] ssinit
+7001 7002
+storageRoot/
+bkps/
+[2024-11-20 04:59:58] NM > Storage server added successfully
+[2024-11-20 04:59:58] Connected servers:
+[2024-11-20 04:59:58] NM > Total storage servers: 1
+[2024-11-20 04:59:58] ssinit completed successfully
+[2024-11-20 05:03:47] NM > Connected to storage server with IP 10.42.0.228
+[2024-11-20 05:03:47] Initializing connection with 10.42.0.228
+[2024-11-20 05:03:47] ssinit
+7001 7002
+storageRoot/
+temp/
+temp/temp1/
+[2024-11-20 05:03:47] NM > Storage server added successfully
+[2024-11-20 05:03:47] Connected servers:
+[2024-11-20 05:03:47] NM > Total storage servers: 2
+[2024-11-20 05:03:47] ssinit completed successfully
+[2024-11-20 05:04:15] NM > Connected to storage server with IP 10.42.0.228
+[2024-11-20 05:04:15] Initializing connection with 10.42.0.228
+[2024-11-20 05:04:15] ACK received
+[2024-11-20 05:04:15] SS > ACK received for 'READ' operation
+[2024-11-20 05:04:15] Reader completed. Readers for temp/: -1
+[2024-11-20 05:05:02] Cache created
+[2024-11-20 05:05:17] NM > Connected to storage server with IP 10.42.0.228
+[2024-11-20 05:05:17] Initializing connection with 10.42.0.228
+[2024-11-20 05:05:17] ssinit
+7002 7003
+temp/
+temp/temp1/
+storageRoot/
+[2024-11-20 05:05:17] NM > Storage server added successfully
+[2024-11-20 05:05:17] Connected servers:
+[2024-11-20 05:05:17] NM > Total storage servers: 1
+[2024-11-20 05:05:17] ssinit completed successfully
+[2024-11-20 05:05:51] NM > Connected to storage server with IP 10.42.0.228
+[2024-11-20 05:05:51] Initializing connection with 10.42.0.228
+[2024-11-20 05:05:51] ACK received
+[2024-11-20 05:05:51] SS > ACK received for 'READ' operation
+[2024-11-20 05:05:51] Reader completed. Readers for temp/: -1
+[2024-11-20 05:06:29] Cache created
+[2024-11-20 05:09:02] Cache created
+[2024-11-20 05:16:19] NM > Connected to storage server with IP 10.42.0.1
+[2024-11-20 05:16:19] Initializing connection with 10.42.0.1
+[2024-11-20 05:16:19] ssinit
+7001 7002
+Naina.mp3
+sto
+song.mp3
+ret.mp3
+storage
+storage.c
+[2024-11-20 05:16:19] NM > Storage server added successfully
+[2024-11-20 05:16:19] Connected servers:
+[2024-11-20 05:16:19] NM > Total storage servers: 1
+[2024-11-20 05:16:19] ssinit completed successfully
+[2024-11-20 05:17:41] NM > Connected to storage server with IP 10.42.0.1
+[2024-11-20 05:17:41] Initializing connection with 10.42.0.1
+[2024-11-20 05:17:41] ssinit
+7001 7002
+storageRoot/
+[2024-11-20 05:17:41] NM > Storage server added successfully
+[2024-11-20 05:17:41] Connected servers:
+[2024-11-20 05:17:41] NM > Total storage servers: 2
+[2024-11-20 05:17:41] ssinit completed successfully
+[2024-11-20 05:21:17] Cache created
+[2024-11-20 05:22:14] NM > Connected to storage server with IP 10.42.0.1
+[2024-11-20 05:22:14] Initializing connection with 10.42.0.1
+[2024-11-20 05:22:14] ssinit
+7002 7003
+storageRoot/
+[2024-11-20 05:22:14] NM > Storage server added successfully
+[2024-11-20 05:22:14] Connected servers:
+[2024-11-20 05:22:14] NM > Total storage servers: 1
+[2024-11-20 05:22:14] ssinit completed successfully
+[2024-11-20 05:22:24] Cache created
+[2024-11-20 05:22:42] NM > Connected to storage server with IP 10.42.0.1
+[2024-11-20 05:22:42] Initializing connection with 10.42.0.1
+[2024-11-20 05:22:42] ssinit
+7001 7002
+storageRoot/
+storageRoot/hloo
+storageRoot/jjfjfj/
+storageRoot/jjfjfj/new_folder/
+[2024-11-20 05:22:42] NM > Storage server added successfully
+[2024-11-20 05:22:42] Connected servers:
+[2024-11-20 05:22:42] NM > Total storage servers: 1
+[2024-11-20 05:22:42] ssinit completed successfully
+[2024-11-20 05:27:28] Cache created
+[2024-11-20 05:27:50] NM > Connected to storage server with IP 10.42.0.1
+[2024-11-20 05:27:50] Initializing connection with 10.42.0.1
+[2024-11-20 05:27:50] ssinit
+7001 7002
+storageRoot/
+storageRoot/hloo
+storageRoot/jjfjfj/new_folder/
+[2024-11-20 05:27:50] NM > Storage server added successfully
+[2024-11-20 05:27:50] Connected servers:
+[2024-11-20 05:27:50] NM > Total storage servers: 1
+[2024-11-20 05:27:50] ssinit completed successfully
+[2024-11-20 05:31:21] Cache created
+[2024-11-20 05:31:40] NM > Connected to storage server with IP 10.42.0.1
+[2024-11-20 05:31:40] Initializing connection with 10.42.0.1
+[2024-11-20 05:31:40] ssinit
+7001 7002
+storageRoot/
+storageRoot/hloo
+storageRoot/jjfjfj/
+[2024-11-20 05:31:40] NM > Storage server added successfully
+[2024-11-20 05:31:40] Connected servers:
+[2024-11-20 05:31:40] NM > Total storage servers: 1
+[2024-11-20 05:31:40] ssinit completed successfully
+[2024-11-20 05:32:18] NM > Connected to storage server with IP 10.42.0.1
+[2024-11-20 05:32:18] Initializing connection with 10.42.0.1
+[2024-11-20 05:32:18] ACK received
+[2024-11-20 05:32:18] SS > ACK received for 'READ' operation
+[2024-11-20 05:32:18] Reader completed. Readers for storageRoot/hloo: -1
+[2024-11-20 05:32:43] Cache created
+[2024-11-20 05:36:40] NM > Connected to storage server with IP 10.42.0.1
+[2024-11-20 05:36:40] Initializing connection with 10.42.0.1
+[2024-11-20 05:36:40] ssinit
+7001 7002
+storageRoot/
+storageRoot/hloo
+storageRoot/jjfjfj/
+[2024-11-20 05:36:40] NM > Storage server added successfully
+[2024-11-20 05:36:40] Connected servers:
+[2024-11-20 05:36:40] NM > Total storage servers: 1
+[2024-11-20 05:36:40] ssinit completed successfully
+[2024-11-20 05:38:02] NM > Connected to storage server with IP 10.42.0.1
+[2024-11-20 05:38:02] Initializing connection with 10.42.0.1
+[2024-11-20 05:38:02] ACK received
+[2024-11-20 05:38:02] SS > ACK received for 'READ' operation
+[2024-11-20 05:38:02] Reader completed. Readers for storageRoot/hloo: -1
+[2024-11-20 05:40:29] Cache created
+[2024-11-20 05:40:59] NM > Connected to storage server with IP 10.42.0.1
+[2024-11-20 05:40:59] Initializing connection with 10.42.0.1
+[2024-11-20 05:40:59] ssinit
+7001 7002
+storageRoot/
+storageRoot/jjfjfj/
+storageRoot/jjfjfj/new_folder/
+[2024-11-20 05:40:59] NM > Storage server added successfully
+[2024-11-20 05:40:59] Connected servers:
+[2024-11-20 05:40:59] NM > Total storage servers: 1
+[2024-11-20 05:40:59] ssinit completed successfully
+[2024-11-20 05:45:04] Cache created
+[2024-11-20 05:45:23] NM > Connected to storage server with IP 10.42.0.1
+[2024-11-20 05:45:23] Initializing connection with 10.42.0.1
+[2024-11-20 05:45:23] ssinit
+7001 7002
+storageRoot/
+storageRoot/jjfjfj/
+storageRoot/jjfjfj/new_folder/
+[2024-11-20 05:45:23] NM > Storage server added successfully
+[2024-11-20 05:45:23] Connected servers:
+[2024-11-20 05:45:23] NM > Total storage servers: 1
+[2024-11-20 05:45:23] ssinit completed successfully
